@@ -1,0 +1,29 @@
+
+@hi
+*noun
+-hii
+=hii i 
+@AA
+*sx
+-s
+=sc
+@me
+*adverb
+-me
+=add me
+@Asad
+*sdf
+-sdf
+=dfsdf
+@farooq
+*Noun
+-name
+=i am mr. hannan.
+@mouse
+*noun
+-animal
+=i am mouse.
+@dog
+*noun
+-animal
+=hi dog
